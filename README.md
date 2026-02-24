@@ -25,6 +25,30 @@ The goal of this project is to show clean backend architecture and proper separa
 
 ---
 
+## ⭐ Project Highlights
+
+* Clean **Service Layer Architecture**
+* Thin Controllers using **Form Requests**
+* Transaction-safe Sales processing
+* Automatic **Accounting Journal Generation**
+* Stock validation and inventory safety checks
+* Financial reporting with profit calculation
+* Laravel Breeze authentication with protected modules
+* Tailwind-based responsive admin UI
+
+### Engineering Focus
+
+This project emphasizes **clean backend design** rather than only CRUD operations.
+
+Key goals:
+
+* Separation of concerns
+* Scalable service-based architecture
+* Accounting logic isolation
+* Maintainable and testable code structure
+
+---
+
 ## 🧩 Architecture Overview
 
 The project follows a clean architecture pattern:
